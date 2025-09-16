@@ -51,3 +51,4 @@ Open `http://127.0.0.1:8080` in your browser.
 ### Notes
 - Ensure your Pinecone index name matches `medical-chatbot` (or update both `store_index.py` and `app.py`).
 - If you change the embedding model, update the index dimension accordingly.
+\n
