@@ -1,0 +1,12 @@
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-huggingface>=0.0.3
+langchain-pinecone>=0.1.0
+langchain-openai>=0.0.8
+pinecone>=5.0.0
+python-dotenv>=1.0.0
+sentence-transformers>=2.2.2
+pypdf>=4.0.0
+flask>=3.0.0
+-e .
+langchain-google-genai>=2.0.0
